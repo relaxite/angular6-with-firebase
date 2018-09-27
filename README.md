@@ -1,1 +1,1 @@
-# angular6 with firebase
+# angular6-firebase-ionic
